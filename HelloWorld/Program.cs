@@ -9,6 +9,8 @@ namespace HelloWorld
             Console.WriteLine("Hello La");
             int toplam = SayilariTopla(5, 3);
             Console.WriteLine(toplam);
+            int toplam2 = SayilariTopla(10, 15);
+            Console.WriteLine(toplam2);
             Console.Read();
 
 
